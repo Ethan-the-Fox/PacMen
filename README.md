@@ -1,6 +1,6 @@
 # PacMen
 ## In this project the user is able to click a button to add pacmen to random parts of a web page. When the user clicks play the pacmen move in random directions at random speeds.
-## This project can be run by dragging the file into a web browser.
+## This project can be run by dragging the html file into a web browser.
 ## Future updates may include an option to add ghosts, or giving the pacmen collision physics off of eachother instead of just the sides of the webpage.
 MIT License
 
